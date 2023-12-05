@@ -1,5 +1,6 @@
 # Visual Studio stuff
 .vs
+Debug
 
 # Windows image file caches
 Thumbs.db
